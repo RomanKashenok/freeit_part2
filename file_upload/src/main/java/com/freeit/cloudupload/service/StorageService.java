@@ -56,8 +56,8 @@ public class StorageService {
 
     private Cloudinary initCloudinary() {
         return new Cloudinary(ObjectUtils.asMap(
-                "cloud_name", "dqaqlgsyc",
-                "api_key", "586116457173445",
-                "api_secret", "unQ4y3zjAXtKMD9h1wf0z-kxLII"));
+                "cloud_name", "",
+                "api_key", "",
+                "api_secret", ""));
     }
 }
